@@ -28,5 +28,5 @@
   * Splash Activity - 애니메이션 적용 후
   <img width="193" alt="무드등 처음" src="https://user-images.githubusercontent.com/48000920/128143452-f2f6cfb5-48ba-425a-be90-221b931ec8da.PNG">
 
-  * Color pick - 무드등 조명색 선택 화면
+  * Color pick - 무드등 조명색 선택 화면 
   <img width="191" alt="무드등 색상 선택" src="https://user-images.githubusercontent.com/48000920/128143466-6c3fc0a1-62c8-4f12-9bfe-d0b73331a7a4.PNG">
